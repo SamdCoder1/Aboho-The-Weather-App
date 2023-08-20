@@ -18,7 +18,7 @@ const cities = document.querySelectorAll('.city');
 
 
 //Default city when the page loads
-let cityInput="London"
+let cityInput="Kolkata"
 
 //add click event to each city in the panel
 cities.forEach((city) => {
